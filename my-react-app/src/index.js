@@ -44,10 +44,4 @@ class App extends React.Component{
 
 export default App;
 
-import React from "react";
-class Welcome extends React.componentDidMount{
-    render(){
-        return<h1>Hello </h1>
-    }
-}
-
+c
